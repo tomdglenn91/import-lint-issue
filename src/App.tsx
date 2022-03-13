@@ -1,9 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { hello } from './magic'
+import { hello } from './magic/test'
 
 hello()
+
+const lintError = 1
 
 function App() {
   return (
