@@ -33,7 +33,7 @@
         "warn",
         {
           "unusedExports": true,
-          "ignoreExports": ["**/js/**"]
+          "ignoreExports": ["**/magic/**"]
         }
       ]
     }
