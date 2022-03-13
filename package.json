@@ -28,11 +28,6 @@
       "react-app",
       "react-app/jest"
     ],
-    "settings": {
-      "import/ignore": [
-        "(?:(?!/js/)(?:.|\n))*/js/"
-      ]
-    },
     "rules": {
       "import/no-unused-modules": [
         "warn",
